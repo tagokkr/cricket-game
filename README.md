@@ -1,2 +1,2 @@
 # cricket-game
-ripoff purple texting app cricket guru
+ripoff cricket guru
